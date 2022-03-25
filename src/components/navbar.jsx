@@ -794,7 +794,7 @@ function NavBar() {
                   Sign up
                 </a>
                 <p className="mt-6 text-center text-base font-medium text-gray-500">
-                  Existing customer?
+                  Existing customer?&nbsp;
                   <a href="#" className="text-orange-600 hover:text-orange-500">
                     Sign in
                   </a>
