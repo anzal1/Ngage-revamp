@@ -4,10 +4,8 @@ import "./index.css";
 function App() {
   return (
     <>
-        <Navbar />
-        <SectionOne/>
-        
-      
+      <Navbar />
+      <SectionOne />
     </>
   );
 }

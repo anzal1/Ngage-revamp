@@ -7,7 +7,7 @@ function NavBar() {
 
   return (
     <>
-      <div className="relative bg-white mt-2 ">
+      <div className="relative bg-white  ">
         <div className="max-w-7xl m-auto px-4 sm:px-6 ">
           <div className="flex justify-between items-center  py-6 md:justify-start md:space-x-10">
             <div className="flex justify-start lg:w-0 lg:flex-1">
